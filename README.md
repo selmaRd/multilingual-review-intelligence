@@ -1,0 +1,1 @@
+Analyzes customer reviews in French and Arabic to find sentiment and main complaints.
